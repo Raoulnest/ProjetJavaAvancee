@@ -29,7 +29,7 @@ public class Progress
 				bar.setValue(val);
 				try 
 				{
-					t.sleep(100);
+				t.sleep(2);
 				} catch (InterruptedException e) 
 				{
 					e.printStackTrace();
